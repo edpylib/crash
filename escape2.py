@@ -6,7 +6,9 @@
 print("The dir to the wallet is c:\\user\\bank\\wallet")
      #the output obviously print with single strokes  ;)
 
+
 #the boring way to doit is uese the raw string character  which tells the interprator to inetrprate \ as a string
+#the raw  caharacter is used when working with file paths or regex whatever that is
 print(r"c:\usr\bank\wallet")
      
 
